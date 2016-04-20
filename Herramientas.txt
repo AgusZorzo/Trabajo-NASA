@@ -1,0 +1,7 @@
+--Las herramientas que los astronautas manejan en la reparación de naves, como martillo, sierra o destornillador, se asemejan a los utensilios artesanos que usamos cotidianamente. Ahora bien, se trata de fabricaciones especiales, más ligeras que las convencionales y a la vez de mayor consistencia. Además debe tenerse en cuenta que con los guantes espaciales puestos, la capacidad de maniobra del usuario se ve notablemente reducida.
+
+Debido a la limitación de espacio que existe en las naves, en cada viaje sólo se transportan las herramientas necesarias. Para reparar el telescopio espacial Hubble, se utilizó una misma llave para apretar todos los tornillos y pernos.
+
+Durante los trabajos extravehiculares, cada herramienta debe estar sujeta a una cuerda de sostén para impedir que, en caso de pérdida, se extravíe en el espacio, incluso se ha desarrollado una aspiradora especial para absorber las virutas originadas por la sierra o taladradora. Para saber operar con todo este utillaje en condiciones de ingravidez, los astronautas son entrenados antes exhaustivamente.
+
+Una herramienta que se podría utilizar es un taladro convencional que esté sujetado por un cable elástico y este pueda tener sus puntas cambiables, como por ejemplo: destornilladores, llaves y algunas herramientas que puedan utilizarse en las naves.
