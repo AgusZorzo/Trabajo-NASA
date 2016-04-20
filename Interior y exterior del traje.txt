@@ -1,0 +1,10 @@
+--‘’Enko promete darle "alas" a las zapatillas. La propuesta incluye una base amortiguada y con resortes que despega el pie del piso y busca evitar los golpes bruscos y aumentar la velocidad’’
+-Con estas zapatillas podemos modificarlas un poco e implementarlas en el traje, de modo que se puedan adaptar a los diferentes terrenos y gravedades.
+
+--‘’Las medias Owlet para recién nacidos avisan a través de una aplicación la temperatura y los signos vitales del bebé mientras descansa’’
+-Se podría implementar algo así en el interior y el exterior del traje, de modo que muestre la temperatura en la pantalla anteriormente mencionada, para estar al tanto de la temperatura tanto en el traje como en el exterior.
+
+--Hay pulseras que se usan para medir la presión, de las cuales podríamos incorporar los chips en el traje para que se pueda ver la frecuencia cardiaca del individuo y saber cuándo hay un pico de presión.
+
+--“Así surgió la idea de hacer un dispositivo wearable no invasivo y fácilmente adaptable a la mano del bebé, que cuando detecta una disminución de la oxigenación en sangre’’.
+-Se puede usar ese guante adaptado al traje para medir el oxigeno en sangre por si falla el sistema de oxigenación, y tener una reserva para esos casos.
