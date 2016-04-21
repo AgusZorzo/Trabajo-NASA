@@ -1,0 +1,15 @@
+--Usar Energía Solar Para Convertir CO2 en Combustible
+
+Unos químicos han demostrado la viabilidad de aprovechar la luz del Sol para transformar un gas de efecto invernadero en un producto útil. Ya han desarrollado un prototipo del dispositivo que captura energía solar, la convierte en energía eléctrica, y "divide" el dióxido de carbono en monóxido de carbono (CO) y oxígeno.
+
+El trabajo ha sido realizado por Clifford Kubiak y Aaron Sathrum, de la Universidad de California en San Diego.
+
+Como su dispositivo no está optimizado aún, todavía necesitan suministrarle energía adicional para que el proceso funcione. Sin embargo, esperan que sus resultados atraigan la atención sobre el prometedor método.
+
+Al separar el CO2, se genera CO, un importante producto químico industrial que normalmente se produce a partir del gas natural. De manera que separando el CO2 se puede, además de ahorrar combustible, producir un producto químico útil y reducir la presencia de un gas con efecto invernadero.
+
+Aunque el monóxido de carbono es venenoso, tiene muchos usos. Se emplean muchísimas toneladas de él cada año para fabricar productos químicos de diverso tipo, incluyendo detergentes y plásticos. También puede convertirse en combustible líquido.
+
+La tecnología de conversión del monóxido de carbono en combustible líquido ha estado disponible desde mucho tiempo atrás. Fue inventada en Alemania en la década de 1920. Los EE.UU. estuvieron muy interesados en esa tecnología durante la crisis energética de los años 70, pero al terminar la crisis se perdió el interés. Ahora se ha cerrado el círculo porque los crecientes precios del petróleo hacen económicamente competitivo convertir el CO en combustible.
+
+El dispositivo, diseñado por Kubiak y Sathrum para dividir el dióxido de carbono, utiliza un semiconductor y dos capas delgadas de catalizadores. Se divide al dióxido de carbono para obtener monóxido de carbono y oxígeno en un proceso de tres pasos. El primer paso es la captura de fotones de energía solar por el semiconductor. El segundo paso es la conversión de energía luminosa en energía eléctrica por el semiconductor. El tercer paso es la aplicación de la energía eléctrica a los catalizadores. Los catalizadores convierten el dióxido de carbono en monóxido de carbono en un lado del dispositivo y en oxígeno en el otro lado.
