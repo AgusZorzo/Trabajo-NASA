@@ -13,3 +13,12 @@
 -	Sistemas de telecomunicación.
 -	Formas para el cómodo almacenamiento de comida, agua y bebidas isotónicas.
 -	Sistema de gestión de desechos (denominado Body Waste Management System en la jerga de la NASA) consistente en un recolector de orina (Urine Collection Device, UCD) y otro de heces (Maximum Absorbency Garment, MAG)
+
+
+--Solucionar los siguientes problemas de los trajes espaciales:
+Alto coste: Pese a lograr reducciones en este campo gracias a la experiencia, el precio de cada uno es algo que ha demostrado ser muy difícil de solucionar. Se podría conseguir fabricándolos en serie; pero muchos componentes debe ser confeccionados a medida.
+Tiempo para entrar y salir: La cantidad y la precisión de ajustes que necesita el traje, lo voluminoso y delicado de sus componentes y todos las comprobaciones necesarias hacen que la operación de vestirse pueda superar la media hora o incluso más.
+Incomodidad: Pese a los esfuerzos el traje espacial no deja de ser un globo hinchable, lo que lo vuelve grande y aparatoso. Se han estudiado trajes de formas duras y elásticas; pero por el momento no son una alternativa. También resulta muy difícil de resolver la sensibilidad, sobre todo en las manos.
+Peso: El traje debido a sus múltiples partes pesa mucho por lo que los astronautas deben estar en buena forma física durante los entrenamientos.
+
+
