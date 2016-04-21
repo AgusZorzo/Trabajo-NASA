@@ -1,0 +1,6 @@
+--Tambien queremos implementar unas gafas de realidad virtual con las que la persona pueda hablar con su familia y poder sentirse mas cercano teniendo el mayor realismo posible.
+
+-HTC Vive es un casco de realidad virtual que está siendo desarrollado por HTC y Valve. El dispositivo está diseñado para utilizar el espacio en una habitación y sumergirse en un mundo virtual en el que se permite al usuario caminar y utilizar controladores para interactuar con objetos virtuales.
+
+HTC afirma que el Vive tiene una frecuencia de actualización de 90 Hz. El dispositivo utiliza dos pantallas, una para cada ojo, cada una con una resolución de 1080 x 1200. Utiliza más de 70 sensores, incluyendo un giroscopio MEMS, acelerómetros y sensores láser, y está hecho para funcionar en un área de seguimiento de 4.6 metros por 4.6 metros, teniendo una precisión de menos de un milímetro.9 El sistema de seguimiento, llamado "Lighthouse", fue diseñado por Alan Yates y utiliza fotosensores para el seguimiento de los objetos; para evitar problemas de oclusión el Vive combina dos Lighthouses que barren todo un espacio con láseres de luz estructurada.
+La cámara frontal permite detectar cualquier objeto, estático o en movimiento, en un área; Esta función sirve también como sistema de seguridad, mostrando el mundo real para evitar que los usuarios choquen con objetos.
