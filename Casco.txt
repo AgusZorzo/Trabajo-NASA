@@ -2,3 +2,11 @@
 
 --‘’Fue muy elogiado el casco para trabajadores Daqri Smart Helmet, resultado de la alianza entre Intel y la firma de seguridad Daqri, que permite imaginar el futuro del trabajo en las construcciones y zonas riesgosas. El casco es una computadora en la cabeza. Utiliza la cámara de Intel RealSense 3D y tiene procesadores integrados, al tiempo que proyecta información de realidad aumentada en el visor del operario; en el ejemplo que se daba en la feria, un operario podía ver, sobreimpresas en su visión de unas tuberías, cuáles tenían problemas’’
 Se podría implementar la tecnología de los cascos para usos como, mostrar la distancia de la nave en el visor, tener una cámara enfocando su rostro para que los que ven desde tierra tengan visión, un micrófono integrado al casco para tener una mejor comunicación hacia la tierra o sus compañeros, tener un medidor de temperatura fuera y dentro del traje (controlada por las medias que voy a aclarar más abajo) y un medidor de oxigeno.
+
+
+--Un equipo de la Universidad del Sur de Australia quiere que te olvides de los vistosos Google Glass. En su lugar, propone el uso de un wearable mucho más discreto: un par de lentes de contacto.
+Para ello incorpora un recubrimiento de película de polímero a sus pupilentes, el cual conduce energía a las lentes. Esto permite que se construyan circuitos eléctricos miniatura sobre los objetos para funcionen como lo haría la pantalla de una computadora y sin riesgos para el usuario.
+De acuerdo con el estudio que este grupo de expertos publicó en la revista especializada  American Chemical Society, esta nueva tecnología no sólo será útil para conectarnos con nuestros dispositivos móviles, sino que podría ser una herramienta con una gran diversidad de aplicaciones.
+“Estamos hablando de cualquier cosa, desde un simple sensor que puede medir la cantidad de glucosa en la sangre, hasta crear pantallas electrónicas que actúen como un ordenador”, dijo Drew Evans, investigador y desarrollador del producto.
+
+-Se podria implementar en el visor.
